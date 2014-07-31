@@ -1,0 +1,13 @@
+3a610755a6d28fec124d0ffda315610e *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+b8e47b1a190388057b9e07ebc1927609 *R/functions.R
+c180628eb799c7890e52a957cd06236b *man/AR1.Rd
+6435cd61033062d2f9be9b0fe2cc8d33 *man/CVTuningCov-package.Rd
+304a220280933355ef1deff05568b8f6 *man/F.norm2.rd
+d55c821ec74b01f0dbc3754a9c6c9388 *man/L2.norm2.rd
+a4b51c4bffa50cdf2da1f22c745acdf5 *man/banding.Rd
+e43653a900422c4f1d9dc7f51e772b15 *man/hard.thresholding.Rd
+ecdd6dc631424224472ab386ee0a27ee *man/random.CV.Rd
+402658eacf98b1cbbdb288447ef610bd *man/regular.CV.Rd
+265c9dbed2e3335f4082df9bdbd41828 *man/soft.thresholding.Rd
+0ef3875480f713f3f7388bbaabf179e0 *man/tapering.Rd
